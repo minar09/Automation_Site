@@ -178,6 +178,12 @@ header {
 
 }
 
+#top_image{
+    padding-top: 28px;
+    float: left;
+    z-index: 999;
+
+}
 
 
 
