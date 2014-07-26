@@ -429,8 +429,9 @@ header.page5 .hover {
     color: #ffeff6;
 }
 .text4 {
-    font-size: 16px;
-    line-height: 20px;
+    font-size: 22px;
+    font-family: serif;
+    line-height: 25px;
     text-align: left;
     color: #FFFFFF;
 }
@@ -568,9 +569,13 @@ header.page5 .hover {
 .companies a {
 	display: inline-block;
 	color: #b288ab;
-	padding-right: 12px;
-	background: url(../images/link_marker.png) right 4px no-repeat;
+	padding-right: 20px;
 	margin-top: 14px;
+    align-content: center;
+}
+.companies h5 {
+    color: #FFFFFF;
+    align-content: center;
 }
 
 .companies a:hover {
