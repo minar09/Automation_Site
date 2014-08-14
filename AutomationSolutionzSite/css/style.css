@@ -543,7 +543,7 @@ header.page5 .hover {
 #web_based {
     padding-top: 160px;
     padding-bottom: 30px;
-    background-color: #4d234d;
+    background-color: #7f4c76;
     float:inherit;
 }
 #web_based h3 {
@@ -553,6 +553,11 @@ header.page5 .hover {
     color: #E9C5FF;
     text-align: center;
     padding-bottom: 20px;
+}
+#intend {
+    text-align: left;
+    list-style-type: disc;
+    padding-left: 50px;
 }
 .table_data {
     padding-top: 60px;
@@ -693,6 +698,30 @@ address dd span {
     width:100%;
     margin-right:-99.9%;
     padding-left: 50px;
+}
+
+/*******Hybrid testing page*******/
+
+.cell3_h {
+    width:100%;
+    background: #7f4c76;
+    float:left;
+    margin:0;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.cell2_h {
+    width:70%;
+    float:left;
+    background: #7f4c76;
+    padding-bottom: 20px;
+
+}
+.cell1_h {
+    width:50%;
+    background:#7f4c76;
+    float:left;
+    padding-bottom: 20px;
 }
 
 /************Footer***********/

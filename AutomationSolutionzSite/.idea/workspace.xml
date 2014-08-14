@@ -26,24 +26,20 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="-20.384615" vertical-offset="3312" max-vertical-offset="7208">
+            <state line="416" column="17" selection-start="17908" selection-end="18537" vertical-scroll-proportion="-16.73077" vertical-offset="6637" max-vertical-offset="7208">
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h5#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1406718399131" expanded="false" signature="1910:1962" placeholder="..." />
-                <marker date="1406718399131" expanded="true" signature="1963:2339" placeholder="..." />
-                <marker date="1406718399131" expanded="true" signature="2078:2329" placeholder="..." />
+                <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+                <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+                <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="21" selection-start="1597" selection-end="1597" vertical-scroll-proportion="-14.72" vertical-offset="1570" max-vertical-offset="12648">
+            <state line="723" column="21" selection-start="9541" selection-end="9541" vertical-scroll-proportion="0.8837607" vertical-offset="11774" max-vertical-offset="13141">
               <folding />
             </state>
           </provider>
@@ -52,25 +48,16 @@
       <file leaf-file-name="web_based.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web_based.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="22" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.53846157" vertical-offset="694" max-vertical-offset="1598">
+            <state line="99" column="9" selection-start="6084" selection-end="6084" vertical-scroll-proportion="-21.153847" vertical-offset="1133" max-vertical-offset="1819">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="34" selection-start="344" selection-end="344" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hybrid.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hybrid.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hybrid.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="42" selection-start="2976" selection-end="2976" vertical-scroll-proportion="0.38554215" vertical-offset="728" max-vertical-offset="1496">
+            <state line="116" column="9" selection-start="5920" selection-end="5920" vertical-scroll-proportion="-20.653847" vertical-offset="1435" max-vertical-offset="2108">
               <folding />
             </state>
           </provider>
@@ -95,18 +82,19 @@
         <option value="$PROJECT_DIR$/carousel.css" />
         <option value="$PROJECT_DIR$/feature1.html" />
         <option value="$PROJECT_DIR$/about_demo.html" />
-        <option value="$PROJECT_DIR$/web_based.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/hybrid.html" />
+        <option value="$PROJECT_DIR$/web_based.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="754" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -187,7 +175,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1378" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -195,7 +183,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16005874" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.073938504" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -230,15 +218,231 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="19" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0" vertical-offset="7497" max-vertical-offset="12733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="26" selection-start="2175" selection-end="5329" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="22" selection-start="5364" selection-end="5364" vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1683">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="19" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0" vertical-offset="7497" max-vertical-offset="12733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="19" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0" vertical-offset="7497" max-vertical-offset="12733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.0" vertical-offset="503" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="19" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0" vertical-offset="7497" max-vertical-offset="12733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.0" vertical-offset="503" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="19" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0" vertical-offset="7497" max-vertical-offset="12733">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="13" selection-start="2032" selection-end="2032" vertical-scroll-proportion="0.0" vertical-offset="503" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hybrid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.0" vertical-offset="146" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="3312" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="441" column="19" selection-start="5685" selection-end="5685" vertical-scroll-proportion="0.0" vertical-offset="7497" max-vertical-offset="12648">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="22" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7208">
+          <folding>
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="21" selection-start="1597" selection-end="1597" vertical-scroll-proportion="0.0" vertical-offset="1938" max-vertical-offset="12648">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web_based.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="22" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.0" vertical-offset="694" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="476" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="301" column="41" selection-start="13587" selection-end="13587" vertical-scroll-proportion="0.0" vertical-offset="5117" max-vertical-offset="7242">
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1406718399131" expanded="false" signature="1910:1962" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="1963:2339" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="2078:2329" placeholder="..." />
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -254,13 +458,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="301" column="41" selection-start="13587" selection-end="13587" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7395">
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1406718399131" expanded="false" signature="1910:1962" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="1963:2339" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="2078:2329" placeholder="..." />
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -276,13 +476,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="301" column="41" selection-start="13587" selection-end="13587" vertical-scroll-proportion="0.0" vertical-offset="5117" max-vertical-offset="7395">
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1406718399131" expanded="false" signature="1910:1962" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="1963:2339" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="2078:2329" placeholder="..." />
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -321,50 +517,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/feature1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="32" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.034423407" vertical-offset="728" max-vertical-offset="3264">
-          <folding />
-        </state>
+        <state line="44" column="32" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.034423407" vertical-offset="728" max-vertical-offset="3264" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="34" selection-start="344" selection-end="344" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
+        <state line="11" column="34" selection-start="344" selection-end="344" vertical-scroll-proportion="0.2261185" vertical-offset="0" max-vertical-offset="827" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/hybrid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="21" selection-start="1597" selection-end="1597" vertical-scroll-proportion="-14.72" vertical-offset="1570" max-vertical-offset="12648">
+        <state line="116" column="9" selection-start="5920" selection-end="5920" vertical-scroll-proportion="-20.653847" vertical-offset="1435" max-vertical-offset="2108">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="226" column="18" selection-start="9768" selection-end="9768" vertical-scroll-proportion="-20.384615" vertical-offset="3312" max-vertical-offset="7208">
+        <state line="416" column="17" selection-start="17908" selection-end="18537" vertical-scroll-proportion="-16.73077" vertical-offset="6637" max-vertical-offset="7208">
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#1;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h5#0;n#div#2;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1406718399131" expanded="false" signature="1910:1962" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="1963:2339" placeholder="..." />
-            <marker date="1406718399131" expanded="true" signature="2078:2329" placeholder="..." />
+            <marker date="1407776000397" expanded="false" signature="1910:1962" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="1963:2339" placeholder="..." />
+            <marker date="1407776000397" expanded="true" signature="2078:2329" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web_based.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="22" selection-start="2018" selection-end="2018" vertical-scroll-proportion="0.53846157" vertical-offset="694" max-vertical-offset="1598">
+        <state line="99" column="9" selection-start="6084" selection-end="6084" vertical-scroll-proportion="-21.153847" vertical-offset="1133" max-vertical-offset="1819">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hybrid.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="42" selection-start="2976" selection-end="2976" vertical-scroll-proportion="0.38554215" vertical-offset="728" max-vertical-offset="1496">
+        <state line="723" column="21" selection-start="9541" selection-end="9541" vertical-scroll-proportion="0.8837607" vertical-offset="11774" max-vertical-offset="13141">
           <folding />
         </state>
       </provider>
