@@ -723,7 +723,19 @@ address dd span {
     float:left;
     padding-bottom: 20px;
 }
+/***********web based************/
 
+.cell2_w {
+    width:100%;
+    float:left;
+    background: #7f4c76;
+}
+.cell1_w {
+    width:50%;
+    background:#7f4c76;
+    float:left;
+
+}
 /************Footer***********/
 
 footer {
