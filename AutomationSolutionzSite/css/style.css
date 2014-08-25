@@ -114,6 +114,7 @@ address {
     text-align: left;
     padding-bottom: 5px;
     list-style-type:disc;
+    padding-left: 15px;
 }
 
 /*links*/
@@ -430,16 +431,16 @@ header.page5 .hover {
     font-size:large;
 }
 .text3 {
-    font-size:20px;
+    font-size:18px;
     font-family: serif;
-    line-height: 22px;
+    line-height: 20px;
     text-align: center;
     color: #ffeff6;
 }
 .text4 {
-    font-size: 20px;
+    font-size: 18px;
     font-family: serif;
-    line-height: 22px;
+    line-height: 20px;
     text-align: left;
     color: #FFFFFF;
 }
