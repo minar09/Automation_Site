@@ -724,6 +724,27 @@ address dd span {
     float:left;
     padding-bottom: 20px;
 }
+.cell3_s {
+    width:100%;
+    background: #32ac97;
+    float:left;
+    margin:0;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.cell2_s {
+    width:70%;
+    float:left;
+    background: #32ac97;
+    padding-bottom: 20px;
+
+}
+.cell1_s {
+    width:50%;
+    background:#32ac97;
+    float:left;
+    padding-bottom: 20px;
+}
 /***********web based************/
 
 .cell2_w {
